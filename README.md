@@ -1,6 +1,6 @@
 ## my-first-repo
 
-Hello, my name is Luis Cordero and I am a Software Engineer!
+Hello, my name is _**Luis Cordero**_ and I am a _**Software Engineer**_!
 
 ## Fun Facts
 * Just started to Code with Marcy Lab School!!!
